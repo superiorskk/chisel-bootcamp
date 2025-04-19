@@ -66,5 +66,5 @@ int main(int argc, char** argv, char** env) {
     tfp->close();
     delete top;
     delete tfp;
-    return 0;
+    return failed;
 }
