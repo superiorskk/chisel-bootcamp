@@ -1,0 +1,10 @@
+.vscode
+.metals
+.idea
+.bloop
+generated
+target
+
+build
+sim/build
+sim/waveform.vcd
